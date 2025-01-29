@@ -1,17 +1,3 @@
-* {
-  margin: 0px;
-  padding: 0px;
-  box-sizing: border-box;
-}
-
-html {
-  scroll-behavior: smooth; /* Serve para fazer o scroll descer mais suave */
-  font-size: 10px;
-}
-
-body {
-  font-family: "Poppins", sans-serif; /* Especificação para usar o estilo da fonte */
-}
 
 .image-welcome {
   margin: 0;
